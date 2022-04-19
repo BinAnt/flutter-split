@@ -1,6 +1,6 @@
 {
-  "name": "flutter-split",
-  "version": "1.0.3",
+  "name": "flutter_split",
+  "version": "1.0.4",
   "description": "flutter-web分包工具",
   "main": "index.js",
   "scripts": {
@@ -14,12 +14,19 @@
     "commander",
     "nodejs"
   ],
-  "author": "AntBin",
+  "author": {
+    "name": "BinAnt",
+    "email": "binbuyanza@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "commander": "^9.0.0"
   },
   "bin": {
     "ant": "./bin/version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BinAnt/flutter-split"
   }
 }

@@ -9,7 +9,7 @@
 ## 安装
 
 ~~~shell
-npm i flutter-split -g
+npm i flutter_split -g
 ~~~
 
 ## 使用
