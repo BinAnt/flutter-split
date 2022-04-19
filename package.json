@@ -1,0 +1,25 @@
+{
+  "name": "flutter-split",
+  "version": "1.0.3",
+  "description": "flutter-web分包工具",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./bin/index.js",
+    "dev": "node ./bin/index.js",
+    "start": "node ./bin/index.js",
+    "command": "node ./bin/version.js"
+  },
+  "keywords": [
+    "flutter",
+    "commander",
+    "nodejs"
+  ],
+  "author": "AntBin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0"
+  },
+  "bin": {
+    "ant": "./bin/version.js"
+  }
+}
