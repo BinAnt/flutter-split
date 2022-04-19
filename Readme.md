@@ -19,6 +19,7 @@ npm i flutter_split -g
 ~~~shell
 ant -s dist
 ~~~
+> dist 是你main.dart.js所在的文件夹, 比如 build, dist, 每个人的目录有可能不一样
 
 ## 配合文件
 
